@@ -1,1 +1,0 @@
-"# clumpsy-bird-vanillajs-canvas" 
